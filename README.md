@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brunohudley
-- 👀 I’m interested in Programing Languages and making a shell
-- 🌱 I’m currently learning C
+- 👀 I’m interested in Low Programing Languages
+- 🌱 I’m currently learning X86 Assembly, and CPU Architecture
 - 📫 How to reach me ...
 
 <!---
