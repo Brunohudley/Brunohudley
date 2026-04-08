@@ -21,6 +21,8 @@ I am the kind of developer who builds the **core logic behind systems**, not the
 
 ![C](https://img.shields.io/badge/C-Language-blue)
 ![Assembly](https://img.shields.io/badge/Assembly-x86-lightgrey)
+![Low Level](https://img.shields.io/badge/Focus-Low--Level-red)
+![Performance](https://img.shields.io/badge/Focus-Performance-orange)
 
 ## 📚 Currently Learning
 - Deeper C concepts
