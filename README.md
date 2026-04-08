@@ -21,7 +21,7 @@ I am the kind of developer who builds the **core logic behind systems**, not the
 
 ## 📚 Currently Learning
 - Deeper C concepts
-- Advanced Assembly (SIMD, performance)
+- Advanced Assembly
 - Computer architecture and ISA
 
 ## 🚀 Goals
